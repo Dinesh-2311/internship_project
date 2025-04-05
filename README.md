@@ -65,6 +65,8 @@ To install these libraries, use the following command:
 To start the server, navigate to the project directory and run: **python dashboard_app.py**
 
 **Automatically Open Browser**: When the server starts, the application will automatically open in your default web browser. You can also open the dashboard manually by visiting the above URL.
+![Uploading image.png…]()
+
 
 **Interactive Features:**
 

@@ -1,7 +1,7 @@
 ## Internship project at Elietch
 
 ## Project Overview
-This repository contains solutions for all four tasks of the EliteTech AI Internship Program, focusing on data analysis, machine learning, dashboard development, and NLP.
+This repository contains solutions for all four tasks of the EliteTech  Internship Program, focusing on data analysis, machine learning, dashboard development, and NLP.
 
 **Task 1: Big Data Analysis**
 
